@@ -4,11 +4,11 @@
  ---
 
 ## Features
-- Expense Management: Create, update, and track expenses with a title, amount, and timestamps.
-- Expense Database: Store and manage multiple expenses in a database-like structure.
-- Search and Filter: Retrieve expenses by ID or title.
-- Data Serialization: Convert expenses to dictionary format for easy storage or transmission.
-- Error Handling: Robust validation for inputs (e.g., empty titles, negative amounts).
+- **Expense Management:** Create, update, and track expenses with a title, amount, and timestamps.
+- **Expense Database:** Store and manage multiple expenses in a database-like structure.
+- **Search and Filter:** Retrieve expenses by ID or title.
+- **Data Serialization:** Convert expenses to dictionary format for easy storage or transmission.
+- **Error Handling:** Robust validation for inputs (e.g., empty titles, negative amounts).
 
 
 ---
